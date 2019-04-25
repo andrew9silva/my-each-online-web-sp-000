@@ -7,5 +7,4 @@ def my_each(collection)
       i = i + 1
     end
     array
-
 end
